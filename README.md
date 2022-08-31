@@ -1,20 +1,37 @@
-{
-  "name": "01-band-names-servers",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.js",
-    "start:dev": "nodemon index.js"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "dotenv": "^16.0.1",
-    "express": "^4.18.1",
-    "socket.io": "^4.5.1",
-    "uuid": "^8.3.2"
-  }
-}
+# Flutter Avanzado: Lleva tu conocimiento al siguiente nivel
+
+Udemy curse by: [Fernando Herrera](https://fernando-herrera.com/#/)
+
+## Bands App Server
+Bands App you can add vote or , working with NodeJS (socket.io), MongoDB, etc.
+
+
+Server working with [Bands App](https://github.com/JimHuertas/bands-flutter-app)
+
+MODULES: 
+- 1(intro)&ensp; ✅
+- 2&emsp;&emsp;&emsp;&ensp;✅
+- 3&emsp;&emsp;&emsp;&ensp;✅
+- 4&emsp;&emsp;&emsp;&ensp;✅
+- 5&emsp;&emsp;&emsp;&ensp;✅
+
+Next Modules:
+[Messenger App](https://github.com/JimHuertas/messenger_app_flutter)
+
+
+<br />
+
+# Feedback
+
+Learning backend with NodeJS on Flutter.
+Requirements:
+- Flutter
+- Postman (test requests)
+- MongoDB Compass (not used in this app but the project)
+- NodeJS (nodemon: 'sudo npm i -g nodemon' )
+
+#### Packages Used (NodeJS):
+- express
+- dotenv
+- Socket.io
+- uuid (create uniques ids)
